@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,400;10..48,700&family=Raleway:wght@400;700&display=swap");
+
+header{
+    text-align: center;
+}
+main{
+    background-color: azure;
+    padding: 24px;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+main img{
+    width: 300px;
+  object-fit: contain;
+}
